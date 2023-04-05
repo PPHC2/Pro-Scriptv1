@@ -1,1 +1,1 @@
-https://github.com/PPHC2/Pro-Scriptv1/blob/main/Pro%20Script%20v1
+loadstring(game:HttpGet("https://github.com/PPHC2/Pro-Scriptv1/blob/main/Pro%20Script%20v1"))()
